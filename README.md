@@ -1,0 +1,2 @@
+Changes any resource that requires fluid to mine to produce a 'resource-rubble' item instead, requiring no fluid.
+Processing of the 'resource-rubble' item with fluid yields the resource that mining with fluid would have yielded.

@@ -1,0 +1,10 @@
+{
+  "name": "NoFluidstoMine",
+  "version": "0.0.1",
+  "factorio_version": "0.16",
+  "title": "No Fluids to Mine",
+  "author": "Martin Rudat",
+  "homepage": "",
+  "dependencies": ["base >= 0.16"],
+  "description": "You don't need fluids to mine, but you have to process the raw ore with it before you can use it."
+}
